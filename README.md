@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact: **I like to play chess to practice my problem solving skills**
 
-<h3 align="left">Connect with me: [Linkedin](www.linkedin.com/in/michelangelo-finies-a668232a8) </h3>
 <p align="left">
 </p>
 
