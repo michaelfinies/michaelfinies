@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Michelangelo Finies</h1>
 <h3 align="center">A passionate software engineer from Curaçao</h3>
 
-- 🔭 I’m currently working on a **AI assistant plugin to help with writing word documents**
+- 🔭 I’m currently working on: an **AI assistant plugin to help with writing word documents**
 
-- 🌱 I’m currently learning **Security, PHP and Laravel**
+- 🌱 I’m currently learning: **Security, PHP and Laravel**
 
-- 👯 I’m looking to collaborate on **any projects that include Laravel or Next**
+- 👯 I’m looking to collaborate on: **any projects that include Laravel or Next**
 
-- 👨‍💻 Check out my website at [https://portifolio-swart-beta.vercel.app/](https://portifolio-swart-beta.vercel.app/)
+- 👨‍💻 Check out my website at: [https://portifolio-website.app/](https://portifolio-swart-beta.vercel.app/)
 
-- 💬 Ask me about **Next.js, JavaScript or any of my public projects**
+- 💬 Ask me about: **Next.js, JavaScript or any of my public projects**
 
-- 📫 How to reach me **michaelfinies18@gmail.com**
+- 📫 Reach me at **michaelfinies18@gmail.com**
 
-- ⚡ Fun fact **I like to play chess to practice my problem solving skills**
+- ⚡ Fun fact: **I like to play chess to practice my problem solving skills**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [Linkedin](www.linkedin.com/in/michelangelo-finies-a668232a8) </h3>
 <p align="left">
 </p>
 
