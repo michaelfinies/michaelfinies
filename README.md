@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on a **AI assistant plugin to help with writing word documents**
 
-- 🌱 I’m currently learning **Security, PHP,**
+- 🌱 I’m currently learning **Security, PHP and Laravel**
 
 - 👯 I’m looking to collaborate on **any projects that include Laravel or Next**
 
 - 👨‍💻 Check out my website at [https://portifolio-swart-beta.vercel.app/](https://portifolio-swart-beta.vercel.app/)
 
-- 💬 Ask me about **Next.js, JavaScript**
+- 💬 Ask me about **Next.js, JavaScript or any of my public projects**
 
 - 📫 How to reach me **michaelfinies18@gmail.com**
 
