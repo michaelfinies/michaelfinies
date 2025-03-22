@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michelangelo Finies</h1>
 <h3 align="center">A passionate software engineer from Curaçao</h3>
 
-- 🔭 I’m currently working on: an **AI assistant plugin to help with writing word documents**
+- 🔭 I’m currently working on: a **Freelancing Web App that helps freelancers manage their clients**
 
 - 🌱 I’m currently learning: **Security, PHP and Laravel**
 
