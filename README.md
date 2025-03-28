@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: a **Freelancing Web App that helps freelancers manage their clients**
 
-- 🌱 I’m currently learning: **Security, PHP and Laravel**
+- 🌱 I’m currently learning: **Cybersecurity, PHP and Laravel**
 
 - 👯 I’m looking to collaborate on: **any projects that include Laravel or Next**
 
