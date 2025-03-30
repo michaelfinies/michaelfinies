@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on: **any projects that include Laravel or Next**
 
-- 👨‍💻 Check out my website at: [https://portifolio-website.app/](https://portifolio-swart-beta.vercel.app/)
+- 👨‍💻 Check out my website at: [https://portifolio-website.app/](https://portfolio-m-beta.vercel.app/)
 
 - 💬 Ask me about: **Next.js, JavaScript or any of my public projects**
 
